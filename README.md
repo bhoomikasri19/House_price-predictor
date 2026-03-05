@@ -16,7 +16,7 @@ A machine learning web app that predicts house prices in Mumbai, India (in Lakhs
 - **Algorithm:** Random Forest Regressor (10 trees)
 - **Dataset:** House Prices (Kaggle) — 187,000+ real listings
 - **R² Score:** 0.85
-- **Target:** Price in Lakhs and Cores
+- **Target:** Price in Lakhs and Crores
 
 ---
 
