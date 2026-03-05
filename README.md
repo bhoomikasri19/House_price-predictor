@@ -49,6 +49,11 @@ pip install -r requirements.txt
 
 # Run the app (model is pre-trained)
 streamlit run app.py
+
+#Live Demo
+https://student-passfail-predictor.streamlit.app/
+
+
 ```
 
 > **Note:** The dataset (187k rows, 31MB) is not included due to size.
